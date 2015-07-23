@@ -321,8 +321,12 @@ body {
 
 .message {
   padding: 10px;
-  border: 1px solid white;
+  border: 2px solid white;
   margin-top: 10px;
+}
+
+.message-content {
+  padding-bottom: 5px;
 }
 
 .message-sender {
