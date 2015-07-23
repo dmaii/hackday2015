@@ -4,4 +4,6 @@ $(document).ready(function() {
     $('.menu').toggleClass('hidden');
   });
 
+
+  //$('#content').load('html/chat.html');
 });
