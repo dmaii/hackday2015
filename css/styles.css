@@ -251,7 +251,12 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f4f4f', endColorstr='#7d7e7d',GradientType=0 ); /* IE6-9 */
 }
 
-#content .inbox li .icon {
+#content .inbox li i {
+  float: left;
+  font-size: 59px;
+  margin-right: 15px;
+  margin-top: 4px;
+  margin-left: 4px;
 }
 #content .inbox li h3 {
   font-size: 1.5em;
