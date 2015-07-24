@@ -88,7 +88,7 @@
   function poll() {
     $.ajax({
       dataType: "json",
-      url: './mock2.json',
+      url: './orders',
       success: function(data) {
         $('.inbox').html(processTemplate(inboxTemplate, rawDataToInboxData(data)));
         $('.inbox li').click(function(e) {
@@ -112,6 +112,7 @@
   function rawDataToInboxData(rawData) {
     var rv = [];
     var xyzzy = 0;
+    $('.count').html('<b>(' + (rawData.rows.length - readList.length) + ')<b>');
     for (var x=0; x<rawData.rows.length; x++) {
       rv.push({
         id: xyzzy++,
