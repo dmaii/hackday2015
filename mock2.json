@@ -1,0 +1,668 @@
+{
+  "rows": [
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-01FFVMA6EH",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 65163
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-0870H76MC8",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 3991
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-0FE6L9YYU8",
+      "impressions": 2083333,
+      "start_time": "2015-07-02T14:22:12.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 44875
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-0JUM9MSP67",
+      "impressions": 952454,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 53706
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-1168WIWFZN",
+      "impressions": 1586666,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 86140
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-1IDZW8DQNM",
+      "impressions": 1000000,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 373574
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-1IJM9VNC8Q",
+      "impressions": 466887,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 51409
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-2953W60UMG",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 45496
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-2WVBFBT7SL",
+      "impressions": 1586666,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 73642
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-37UM2AWF6R",
+      "impressions": 669304,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 163603
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-3DJFWCRKH9",
+      "impressions": 2026170,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 633037
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-45VKIPD6FF",
+      "impressions": 466887,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 40216
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-48B7XJCCHQ",
+      "impressions": 3000000,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 122988
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-4O9UKHLU68",
+      "impressions": 2666667,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 172339
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-4W3DVMNJXZ",
+      "impressions": 466887,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 120752
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-59M1KC5B8Y",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 66213
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-6ZZRUXYFD1",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 33078
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1274",
+      "uid": "LI-7DOO82QHD1",
+      "impressions": 1099500,
+      "start_time": "2015-07-09T07:00:00.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 16036
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-7GS2BGQLAL",
+      "impressions": 1712086,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 111593
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-7TALZJKLWW",
+      "impressions": 843750,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 50416
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-836HMN5GQW",
+      "impressions": 1712086,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 74500
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1265",
+      "uid": "LI-8I9ATXELBB",
+      "impressions": 2083333,
+      "start_time": "2015-07-08T07:00:00.000Z",
+      "end_time": "2015-11-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 29411
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1265",
+      "uid": "LI-96VTU896PM",
+      "impressions": 1250000,
+      "start_time": "2015-07-08T07:00:00.000Z",
+      "end_time": "2015-11-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 17641
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1265",
+      "uid": "LI-9C0012LR56",
+      "impressions": 120000,
+      "start_time": "2015-07-08T07:00:00.000Z",
+      "end_time": "2015-11-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 1714
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-9NFMAUQZ4E",
+      "impressions": 1586667,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 89392
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-9THYCSVR5M",
+      "impressions": 570170,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 39989
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-AW0OGZ3BCP",
+      "impressions": 1586666,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 56277
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-BB2GJPGN3T",
+      "impressions": 1000000,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 374769
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-BNN491HZ0O",
+      "impressions": 1111111,
+      "start_time": "2015-07-01T07:00:00.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 14485
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1194",
+      "uid": "LI-BPKNO2T7OF",
+      "impressions": 1000000,
+      "start_time": "2015-05-14T07:00:00.000Z",
+      "end_time": "2015-08-06T06:59:59.000Z",
+      "max(stats_item.impressions)": 433111
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1254",
+      "uid": "LI-BVOUXR3JBI",
+      "impressions": 222222,
+      "start_time": "2015-06-29T07:00:00.000Z",
+      "end_time": "2015-08-03T06:59:59.000Z",
+      "max(stats_item.impressions)": 8518
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-C3HL2U67EL",
+      "impressions": 1666667,
+      "start_time": "2015-07-02T14:22:12.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 30597
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-C68K5S42JU",
+      "impressions": 750000,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 51409
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-C75UHDH81R",
+      "impressions": 1470588,
+      "start_time": "2015-07-01T07:00:00.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 20736
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-CCST3GF2Y1",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 100980
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-DFM9IGACK4",
+      "impressions": 714286,
+      "start_time": "2015-07-02T14:22:12.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 9151
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-DST9D1QO65",
+      "impressions": 1122289,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 64347
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1274",
+      "uid": "LI-DVS5TYVJ1U",
+      "impressions": 588235,
+      "start_time": "2015-07-08T07:00:00.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 12217
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1254",
+      "uid": "LI-F0CH2V8Q8M",
+      "impressions": 222223,
+      "start_time": "2015-06-29T07:00:00.000Z",
+      "end_time": "2015-08-03T06:59:59.000Z",
+      "max(stats_item.impressions)": 8500
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1265",
+      "uid": "LI-FJ3R6AH74I",
+      "impressions": 3966667,
+      "start_time": "2015-07-08T07:00:00.000Z",
+      "end_time": "2015-11-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 55899
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-FONOJCC8IK",
+      "impressions": 466887,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 119874
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-FSYEGD41M9",
+      "impressions": 1469176,
+      "start_time": "2015-07-01T07:00:00.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 19525
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-FUU80JXE91",
+      "impressions": 733553,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 42121
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1194",
+      "uid": "LI-FVIQ6PNXBL",
+      "impressions": 1000000,
+      "start_time": "2015-05-14T07:00:00.000Z",
+      "end_time": "2015-08-06T06:59:59.000Z",
+      "max(stats_item.impressions)": 112716
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1194",
+      "uid": "LI-GMG53P9J0X",
+      "impressions": 1000000,
+      "start_time": "2015-05-14T07:00:00.000Z",
+      "end_time": "2015-08-06T06:59:59.000Z",
+      "max(stats_item.impressions)": 385270
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-HSGEW5KIXO",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 87082
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1163",
+      "uid": "LI-IHTIRQS64H",
+      "impressions": 7133333,
+      "start_time": "2015-05-15T07:00:00.000Z",
+      "end_time": "2015-08-16T06:59:59.000Z",
+      "max(stats_item.impressions)": 131267
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-IZQ94F13D4",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 8372
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-JC9C2B9JEX",
+      "impressions": 714286,
+      "start_time": "2015-07-02T14:22:12.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 53396
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-JE4OFKGH8Q",
+      "impressions": 340000,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 49196
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-JS157S4YX7",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 21602
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-KR80L7K1MS",
+      "impressions": 1434783,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 508060
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-KS11AYWKG9",
+      "impressions": 2666667,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 219269
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-L14G8630IN",
+      "impressions": 1586666,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 54109
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-L4AIO3L7II",
+      "impressions": 2026171,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 633199
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-L51CKH2YTX",
+      "impressions": 924927,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 64522
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-MR852ABZ8H",
+      "impressions": 466887,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 108740
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-NNEWBX48XN",
+      "impressions": 11382114,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 449019
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-NYX4CIF0YU",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 65276
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-O99VIZLA62",
+      "impressions": 555556,
+      "start_time": "2015-07-01T07:00:00.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 7685
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-ODU17CS5Z9",
+      "impressions": 1931826,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 117454
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-PHHL7DMRJD",
+      "impressions": 750000,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 54631
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-PO16OCWSIN",
+      "impressions": 669304,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 48018
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-QI1INDL8UW",
+      "impressions": 714286,
+      "start_time": "2015-07-02T14:22:12.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 45211
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-QTYRUCGD8P",
+      "impressions": 1586667,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 23990
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-RRNCOZIUYV",
+      "impressions": 466887,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 123514
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-S6YLAXIHZI",
+      "impressions": 149152,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 149152
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-SV4WPD02B5",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 63684
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1163",
+      "uid": "LI-TYUGLQNU8G",
+      "impressions": 750000,
+      "start_time": "2015-05-15T07:00:00.000Z",
+      "end_time": "2015-08-16T06:59:59.000Z",
+      "max(stats_item.impressions)": 41834
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-UG0VLW9F1T",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 63799
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-UIGVGDNPJ7",
+      "impressions": 669304,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 177081
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-UORLH8T56A",
+      "impressions": 1388889,
+      "start_time": "2015-07-02T14:22:12.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 16188
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-V7Y291YP35",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 67836
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-VOFEJQDOUI",
+      "impressions": 714196,
+      "start_time": "2015-07-02T14:22:12.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 8926
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-WNAAOJHYZM",
+      "impressions": 825000,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 305096
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-WRDHKWBKGF",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 26698
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1254",
+      "uid": "LI-WT1Z8T6FQK",
+      "impressions": 222222,
+      "start_time": "2015-06-29T07:00:00.000Z",
+      "end_time": "2015-08-03T06:59:59.000Z",
+      "max(stats_item.impressions)": 8360
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1214",
+      "uid": "LI-WW7Z6ON8X5",
+      "impressions": 1000000,
+      "start_time": "2015-07-01T07:00:00.000Z",
+      "end_time": "2015-09-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 18074
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-XC4Y2XSKTE",
+      "impressions": 1721625,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 93144
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1163",
+      "uid": "LI-XIYMSPDFJG",
+      "impressions": 275000,
+      "start_time": "2015-05-15T07:00:00.000Z",
+      "end_time": "2015-08-16T06:59:59.000Z",
+      "max(stats_item.impressions)": 46707
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1122",
+      "uid": "LI-XLD83H4ID2",
+      "impressions": 1648300,
+      "start_time": "2015-03-30T06:00:00.000Z",
+      "end_time": "2015-08-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 96228
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1179",
+      "uid": "LI-YV67ZH4TX3",
+      "impressions": 380800,
+      "start_time": "2015-05-04T07:00:00.000Z",
+      "end_time": "2016-01-01T07:59:59.000Z",
+      "max(stats_item.impressions)": 19397
+    },
+    {
+      "external_id": "IFA_CAMPAIGN_1261",
+      "uid": "LI-Z4429PO5FR",
+      "impressions": 1111111,
+      "start_time": "2015-07-01T07:00:00.000Z",
+      "end_time": "2015-10-01T06:59:59.000Z",
+      "max(stats_item.impressions)": 14556
+    }
+  ]
+}
