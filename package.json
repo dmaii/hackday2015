@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/suisha/hackday2015",
   "dependencies": {
-    "node-mysql": "latest",
+    "mysql": "latest",
     "express": "latest",
     "serve-favicon": "latest",
     "cookie-parser": "latest",
