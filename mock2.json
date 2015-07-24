@@ -1,668 +1,668 @@
 {
   "rows": [
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-01FFVMA6EH",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 65163
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-0870H76MC8",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 3991
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-0FE6L9YYU8",
-      "impressions": 2083333,
-      "start_time": "2015-07-02T14:22:12.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 44875
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-0JUM9MSP67",
-      "impressions": 952454,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 53706
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-1168WIWFZN",
-      "impressions": 1586666,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 86140
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-1IDZW8DQNM",
-      "impressions": 1000000,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 373574
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-1IJM9VNC8Q",
-      "impressions": 466887,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 51409
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-2953W60UMG",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 45496
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-2WVBFBT7SL",
-      "impressions": 1586666,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 73642
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-37UM2AWF6R",
-      "impressions": 669304,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 163603
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-3DJFWCRKH9",
-      "impressions": 2026170,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 633037
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-45VKIPD6FF",
-      "impressions": 466887,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 40216
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-48B7XJCCHQ",
-      "impressions": 3000000,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 122988
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 65163,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 3991,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 44875,
+      "imprExpected": 2083333,
+      "startDate": "2015-07-02T14:22:12.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 53706,
+      "imprExpected": 952454,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 86140,
+      "imprExpected": 1586666,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 373574,
+      "imprExpected": 1000000,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 51409,
+      "imprExpected": 466887,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 45496,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 73642,
+      "imprExpected": 1586666,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 163603,
+      "imprExpected": 669304,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 633037,
+      "imprExpected": 2026170,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 40216,
+      "imprExpected": 466887,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 122988,
+      "imprExpected": 3000000,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-4O9UKHLU68",
-      "impressions": 2666667,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 172339
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 172339,
+      "imprExpected": 2666667,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-4W3DVMNJXZ",
-      "impressions": 466887,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 120752
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 120752,
+      "imprExpected": 466887,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-59M1KC5B8Y",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 66213
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 66213,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-6ZZRUXYFD1",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 33078
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 33078,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1274",
-      "uid": "LI-7DOO82QHD1",
-      "impressions": 1099500,
-      "start_time": "2015-07-09T07:00:00.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 16036
+      "url": "http://advertisers.isocket.com/campaigns/1274",
+      "imprActual": 16036,
+      "imprExpected": 1099500,
+      "startDate": "2015-07-09T07:00:00.000Z",
+      "propertyName": "Gannett",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-7GS2BGQLAL",
-      "impressions": 1712086,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 111593
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 111593,
+      "imprExpected": 1712086,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "Windows 8",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-7TALZJKLWW",
-      "impressions": 843750,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 50416
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 50416,
+      "imprExpected": 843750,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-836HMN5GQW",
-      "impressions": 1712086,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 74500
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 74500,
+      "imprExpected": 1712086,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "Windows 8",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1265",
-      "uid": "LI-8I9ATXELBB",
-      "impressions": 2083333,
-      "start_time": "2015-07-08T07:00:00.000Z",
-      "end_time": "2015-11-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 29411
+      "url": "http://advertisers.isocket.com/campaigns/1265",
+      "imprActual": 29411,
+      "imprExpected": 2083333,
+      "startDate": "2015-07-08T07:00:00.000Z",
+      "propertyName": "Trulia",
+      "endDate": "2015-11-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1265",
-      "uid": "LI-96VTU896PM",
-      "impressions": 1250000,
-      "start_time": "2015-07-08T07:00:00.000Z",
-      "end_time": "2015-11-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 17641
+      "url": "http://advertisers.isocket.com/campaigns/1265",
+      "imprActual": 17641,
+      "imprExpected": 1250000,
+      "startDate": "2015-07-08T07:00:00.000Z",
+      "propertyName": "Trulia",
+      "endDate": "2015-11-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1265",
-      "uid": "LI-9C0012LR56",
-      "impressions": 120000,
-      "start_time": "2015-07-08T07:00:00.000Z",
-      "end_time": "2015-11-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 1714
+      "url": "http://advertisers.isocket.com/campaigns/1265",
+      "imprActual": 1714,
+      "imprExpected": 120000,
+      "startDate": "2015-07-08T07:00:00.000Z",
+      "propertyName": "Zillow.com",
+      "endDate": "2015-11-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-9NFMAUQZ4E",
-      "impressions": 1586667,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 89392
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 89392,
+      "imprExpected": 1586667,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-9THYCSVR5M",
-      "impressions": 570170,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 39989
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 39989,
+      "imprExpected": 570170,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-AW0OGZ3BCP",
-      "impressions": 1586666,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 56277
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 56277,
+      "imprExpected": 1586666,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-BB2GJPGN3T",
-      "impressions": 1000000,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 374769
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 374769,
+      "imprExpected": 1000000,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-BNN491HZ0O",
-      "impressions": 1111111,
-      "start_time": "2015-07-01T07:00:00.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 14485
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 14485,
+      "imprExpected": 1111111,
+      "startDate": "2015-07-01T07:00:00.000Z",
+      "propertyName": "Gannett",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1194",
-      "uid": "LI-BPKNO2T7OF",
-      "impressions": 1000000,
-      "start_time": "2015-05-14T07:00:00.000Z",
-      "end_time": "2015-08-06T06:59:59.000Z",
-      "max(stats_item.impressions)": 433111
+      "url": "http://advertisers.isocket.com/campaigns/1194",
+      "imprActual": 433111,
+      "imprExpected": 1000000,
+      "startDate": "2015-05-14T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2015-08-06T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1254",
-      "uid": "LI-BVOUXR3JBI",
-      "impressions": 222222,
-      "start_time": "2015-06-29T07:00:00.000Z",
-      "end_time": "2015-08-03T06:59:59.000Z",
-      "max(stats_item.impressions)": 8518
+      "url": "http://advertisers.isocket.com/campaigns/1254",
+      "imprActual": 8518,
+      "imprExpected": 222222,
+      "startDate": "2015-06-29T07:00:00.000Z",
+      "propertyName": "RantSports",
+      "endDate": "2015-08-03T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-C3HL2U67EL",
-      "impressions": 1666667,
-      "start_time": "2015-07-02T14:22:12.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 30597
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 30597,
+      "imprExpected": 1666667,
+      "startDate": "2015-07-02T14:22:12.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-C68K5S42JU",
-      "impressions": 750000,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 51409
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 51409,
+      "imprExpected": 750000,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-C75UHDH81R",
-      "impressions": 1470588,
-      "start_time": "2015-07-01T07:00:00.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 20736
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 20736,
+      "imprExpected": 1470588,
+      "startDate": "2015-07-01T07:00:00.000Z",
+      "propertyName": "Gannett",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-CCST3GF2Y1",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 100980
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 100980,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-DFM9IGACK4",
-      "impressions": 714286,
-      "start_time": "2015-07-02T14:22:12.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 9151
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 9151,
+      "imprExpected": 714286,
+      "startDate": "2015-07-02T14:22:12.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-DST9D1QO65",
-      "impressions": 1122289,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 64347
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 64347,
+      "imprExpected": 1122289,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1274",
-      "uid": "LI-DVS5TYVJ1U",
-      "impressions": 588235,
-      "start_time": "2015-07-08T07:00:00.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 12217
+      "url": "http://advertisers.isocket.com/campaigns/1274",
+      "imprActual": 12217,
+      "imprExpected": 588235,
+      "startDate": "2015-07-08T07:00:00.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1254",
-      "uid": "LI-F0CH2V8Q8M",
-      "impressions": 222223,
-      "start_time": "2015-06-29T07:00:00.000Z",
-      "end_time": "2015-08-03T06:59:59.000Z",
-      "max(stats_item.impressions)": 8500
+      "url": "http://advertisers.isocket.com/campaigns/1254",
+      "imprActual": 8500,
+      "imprExpected": 222223,
+      "startDate": "2015-06-29T07:00:00.000Z",
+      "propertyName": "RantSports",
+      "endDate": "2015-08-03T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1265",
-      "uid": "LI-FJ3R6AH74I",
-      "impressions": 3966667,
-      "start_time": "2015-07-08T07:00:00.000Z",
-      "end_time": "2015-11-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 55899
+      "url": "http://advertisers.isocket.com/campaigns/1265",
+      "imprActual": 55899,
+      "imprExpected": 3966667,
+      "startDate": "2015-07-08T07:00:00.000Z",
+      "propertyName": "Zillow.com",
+      "endDate": "2015-11-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-FONOJCC8IK",
-      "impressions": 466887,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 119874
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 119874,
+      "imprExpected": 466887,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-FSYEGD41M9",
-      "impressions": 1469176,
-      "start_time": "2015-07-01T07:00:00.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 19525
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 19525,
+      "imprExpected": 1469176,
+      "startDate": "2015-07-01T07:00:00.000Z",
+      "propertyName": "Gannett",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-FUU80JXE91",
-      "impressions": 733553,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 42121
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 42121,
+      "imprExpected": 733553,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1194",
-      "uid": "LI-FVIQ6PNXBL",
-      "impressions": 1000000,
-      "start_time": "2015-05-14T07:00:00.000Z",
-      "end_time": "2015-08-06T06:59:59.000Z",
-      "max(stats_item.impressions)": 112716
+      "url": "http://advertisers.isocket.com/campaigns/1194",
+      "imprActual": 112716,
+      "imprExpected": 1000000,
+      "startDate": "2015-05-14T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2015-08-06T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1194",
-      "uid": "LI-GMG53P9J0X",
-      "impressions": 1000000,
-      "start_time": "2015-05-14T07:00:00.000Z",
-      "end_time": "2015-08-06T06:59:59.000Z",
-      "max(stats_item.impressions)": 385270
+      "url": "http://advertisers.isocket.com/campaigns/1194",
+      "imprActual": 385270,
+      "imprExpected": 1000000,
+      "startDate": "2015-05-14T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2015-08-06T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-HSGEW5KIXO",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 87082
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 87082,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1163",
-      "uid": "LI-IHTIRQS64H",
-      "impressions": 7133333,
-      "start_time": "2015-05-15T07:00:00.000Z",
-      "end_time": "2015-08-16T06:59:59.000Z",
-      "max(stats_item.impressions)": 131267
+      "url": "http://advertisers.isocket.com/campaigns/1163",
+      "imprActual": 131267,
+      "imprExpected": 7133333,
+      "startDate": "2015-05-15T07:00:00.000Z",
+      "propertyName": "Bloomberg",
+      "endDate": "2015-08-16T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-IZQ94F13D4",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 8372
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 8372,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-JC9C2B9JEX",
-      "impressions": 714286,
-      "start_time": "2015-07-02T14:22:12.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 53396
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 53396,
+      "imprExpected": 714286,
+      "startDate": "2015-07-02T14:22:12.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-JE4OFKGH8Q",
-      "impressions": 340000,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 49196
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 49196,
+      "imprExpected": 340000,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "Windows 8",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-JS157S4YX7",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 21602
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 21602,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-KR80L7K1MS",
-      "impressions": 1434783,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 508060
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 508060,
+      "imprExpected": 1434783,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-KS11AYWKG9",
-      "impressions": 2666667,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 219269
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 219269,
+      "imprExpected": 2666667,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-L14G8630IN",
-      "impressions": 1586666,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 54109
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 54109,
+      "imprExpected": 1586666,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-L4AIO3L7II",
-      "impressions": 2026171,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 633199
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 633199,
+      "imprExpected": 2026171,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-L51CKH2YTX",
-      "impressions": 924927,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 64522
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 64522,
+      "imprExpected": 924927,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-MR852ABZ8H",
-      "impressions": 466887,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 108740
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 108740,
+      "imprExpected": 466887,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-NNEWBX48XN",
-      "impressions": 11382114,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 449019
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 449019,
+      "imprExpected": 11382114,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "Outlook",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-NYX4CIF0YU",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 65276
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 65276,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-O99VIZLA62",
-      "impressions": 555556,
-      "start_time": "2015-07-01T07:00:00.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 7685
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 7685,
+      "imprExpected": 555556,
+      "startDate": "2015-07-01T07:00:00.000Z",
+      "propertyName": "Gannett",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-ODU17CS5Z9",
-      "impressions": 1931826,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 117454
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 117454,
+      "imprExpected": 1931826,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "Windows 8",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-PHHL7DMRJD",
-      "impressions": 750000,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 54631
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 54631,
+      "imprExpected": 750000,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-PO16OCWSIN",
-      "impressions": 669304,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 48018
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 48018,
+      "imprExpected": 669304,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-QI1INDL8UW",
-      "impressions": 714286,
-      "start_time": "2015-07-02T14:22:12.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 45211
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 45211,
+      "imprExpected": 714286,
+      "startDate": "2015-07-02T14:22:12.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-QTYRUCGD8P",
-      "impressions": 1586667,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 23990
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 23990,
+      "imprExpected": 1586667,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-RRNCOZIUYV",
-      "impressions": 466887,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 123514
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 123514,
+      "imprExpected": 466887,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-S6YLAXIHZI",
-      "impressions": 149152,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 149152
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 149152,
+      "imprExpected": 149152,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-SV4WPD02B5",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 63684
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 63684,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1163",
-      "uid": "LI-TYUGLQNU8G",
-      "impressions": 750000,
-      "start_time": "2015-05-15T07:00:00.000Z",
-      "end_time": "2015-08-16T06:59:59.000Z",
-      "max(stats_item.impressions)": 41834
+      "url": "http://advertisers.isocket.com/campaigns/1163",
+      "imprActual": 41834,
+      "imprExpected": 750000,
+      "startDate": "2015-05-15T07:00:00.000Z",
+      "propertyName": "Bloomberg",
+      "endDate": "2015-08-16T06:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-UG0VLW9F1T",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 63799
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 63799,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
     },
     {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-UIGVGDNPJ7",
-      "impressions": 669304,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 177081
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-UORLH8T56A",
-      "impressions": 1388889,
-      "start_time": "2015-07-02T14:22:12.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 16188
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-V7Y291YP35",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 67836
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-VOFEJQDOUI",
-      "impressions": 714196,
-      "start_time": "2015-07-02T14:22:12.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 8926
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-WNAAOJHYZM",
-      "impressions": 825000,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 305096
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-WRDHKWBKGF",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 26698
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1254",
-      "uid": "LI-WT1Z8T6FQK",
-      "impressions": 222222,
-      "start_time": "2015-06-29T07:00:00.000Z",
-      "end_time": "2015-08-03T06:59:59.000Z",
-      "max(stats_item.impressions)": 8360
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1214",
-      "uid": "LI-WW7Z6ON8X5",
-      "impressions": 1000000,
-      "start_time": "2015-07-01T07:00:00.000Z",
-      "end_time": "2015-09-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 18074
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-XC4Y2XSKTE",
-      "impressions": 1721625,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 93144
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1163",
-      "uid": "LI-XIYMSPDFJG",
-      "impressions": 275000,
-      "start_time": "2015-05-15T07:00:00.000Z",
-      "end_time": "2015-08-16T06:59:59.000Z",
-      "max(stats_item.impressions)": 46707
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1122",
-      "uid": "LI-XLD83H4ID2",
-      "impressions": 1648300,
-      "start_time": "2015-03-30T06:00:00.000Z",
-      "end_time": "2015-08-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 96228
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1179",
-      "uid": "LI-YV67ZH4TX3",
-      "impressions": 380800,
-      "start_time": "2015-05-04T07:00:00.000Z",
-      "end_time": "2016-01-01T07:59:59.000Z",
-      "max(stats_item.impressions)": 19397
-    },
-    {
-      "external_id": "IFA_CAMPAIGN_1261",
-      "uid": "LI-Z4429PO5FR",
-      "impressions": 1111111,
-      "start_time": "2015-07-01T07:00:00.000Z",
-      "end_time": "2015-10-01T06:59:59.000Z",
-      "max(stats_item.impressions)": 14556
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 177081,
+      "imprExpected": 669304,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 16188,
+      "imprExpected": 1388889,
+      "startDate": "2015-07-02T14:22:12.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 67836,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 8926,
+      "imprExpected": 714196,
+      "startDate": "2015-07-02T14:22:12.000Z",
+      "propertyName": "USA TODAY",
+      "endDate": "2015-10-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 305096,
+      "imprExpected": 825000,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 26698,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1254",
+      "imprActual": 8360,
+      "imprExpected": 222222,
+      "startDate": "2015-06-29T07:00:00.000Z",
+      "propertyName": "RantSports",
+      "endDate": "2015-08-03T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1214",
+      "imprActual": 18074,
+      "imprExpected": 1000000,
+      "startDate": "2015-07-01T07:00:00.000Z",
+      "propertyName": "Conde Nast Collections",
+      "endDate": "2015-09-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 93144,
+      "imprExpected": 1721625,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1163",
+      "imprActual": 46707,
+      "imprExpected": 275000,
+      "startDate": "2015-05-15T07:00:00.000Z",
+      "propertyName": "Bloomberg",
+      "endDate": "2015-08-16T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1122",
+      "imprActual": 96228,
+      "imprExpected": 1648300,
+      "startDate": "2015-03-30T06:00:00.000Z",
+      "propertyName": "MSN",
+      "endDate": "2015-08-01T06:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1179",
+      "imprActual": 19397,
+      "imprExpected": 380800,
+      "startDate": "2015-05-04T07:00:00.000Z",
+      "propertyName": "Mode Media",
+      "endDate": "2016-01-01T07:59:59.000Z"
+    },
+    {
+      "url": "http://advertisers.isocket.com/campaigns/1261",
+      "imprActual": 14556,
+      "imprExpected": 1111111,
+      "startDate": "2015-07-01T07:00:00.000Z",
+      "propertyName": "Gannett",
+      "endDate": "2015-10-01T06:59:59.000Z"
     }
   ]
 }

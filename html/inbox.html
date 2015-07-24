@@ -72,7 +72,7 @@
     rv += "  <i class=\"fa fa-"+icon+"\"></i>";
     rv += "  <h3>"+heading+"</h3>";
     rv += "  <p>"+item.name+"</p>";
-    rv += "  <p class=\"date\">"+item.date+"</p>";
+    //rv += "  <p class=\"date\">"+item.date+"</p>";
     rv += "</li>";
     return rv;
   };
@@ -107,7 +107,6 @@
 
   function markRead(node) {
     node = $(node);
-    console.log(node.attr('data-id'), readList);
     readList.push(node.attr('data-id'));
     node.removeClass('unread');
   };
@@ -119,10 +118,9 @@
       rv.push({
         id: xyzzy++,
         type: 'under-serving',
-        unread: true,
-        name: 'K-Mart',
+        name: rawData.rows[x].propertyName,
         date: '30 seconds ago',
-        url: 'http://slashdot.org/'
+        url: rawData.rows[x].url
       });
     }
     return rv;
