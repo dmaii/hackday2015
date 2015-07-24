@@ -59,6 +59,7 @@ app.get('/orders', function(req, res) {
         var campId = rows[i].external_id.replace('IFA_CAMPAIGN_', '');
         var row = {
           url: "http://advertisers.isocket.com/campaigns/" + campId,
+          id: rows[i].uid,
           imprActual: rows[i]['max(stats_item.impressions)'],
           imprExpected: rows[i].impressions,
           startDate: rows[i].start_time,

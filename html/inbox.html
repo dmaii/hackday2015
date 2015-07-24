@@ -111,11 +111,10 @@
 
   function rawDataToInboxData(rawData) {
     var rv = [];
-    var xyzzy = 0;
     $('.count').html('<b>(' + (rawData.rows.length - readList.length) + ')<b>');
     for (var x=0; x<rawData.rows.length; x++) {
       rv.push({
-        id: xyzzy++,
+        id: rawData.rows[x].uid,
         type: 'under-serving',
         name: rawData.rows[x].propertyName,
         date: '30 seconds ago',
