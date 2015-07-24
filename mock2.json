@@ -1,76 +1,13 @@
 {
   "rows": [
     {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 65163,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 3991,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 44875,
-      "imprExpected": 2083333,
-      "startDate": "2015-07-02T14:22:12.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 53706,
-      "imprExpected": 952454,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 86140,
-      "imprExpected": 1586666,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
       "url": "http://advertisers.isocket.com/campaigns/1122",
       "imprActual": 373574,
       "imprExpected": 1000000,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 51409,
-      "imprExpected": 466887,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 45496,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 73642,
-      "imprExpected": 1586666,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -78,7 +15,8 @@
       "imprExpected": 669304,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -86,31 +24,8 @@
       "imprExpected": 2026170,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 40216,
-      "imprExpected": 466887,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 122988,
-      "imprExpected": 3000000,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 172339,
-      "imprExpected": 2666667,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -118,103 +33,8 @@
       "imprExpected": 466887,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 66213,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 33078,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1274",
-      "imprActual": 16036,
-      "imprExpected": 1099500,
-      "startDate": "2015-07-09T07:00:00.000Z",
-      "propertyName": "Gannett",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 111593,
-      "imprExpected": 1712086,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "Windows 8",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 50416,
-      "imprExpected": 843750,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 74500,
-      "imprExpected": 1712086,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "Windows 8",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1265",
-      "imprActual": 29411,
-      "imprExpected": 2083333,
-      "startDate": "2015-07-08T07:00:00.000Z",
-      "propertyName": "Trulia",
-      "endDate": "2015-11-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1265",
-      "imprActual": 17641,
-      "imprExpected": 1250000,
-      "startDate": "2015-07-08T07:00:00.000Z",
-      "propertyName": "Trulia",
-      "endDate": "2015-11-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1265",
-      "imprActual": 1714,
-      "imprExpected": 120000,
-      "startDate": "2015-07-08T07:00:00.000Z",
-      "propertyName": "Zillow.com",
-      "endDate": "2015-11-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 89392,
-      "imprExpected": 1586667,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 39989,
-      "imprExpected": 570170,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 56277,
-      "imprExpected": 1586666,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -222,15 +42,8 @@
       "imprExpected": 1000000,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 14485,
-      "imprExpected": 1111111,
-      "startDate": "2015-07-01T07:00:00.000Z",
-      "propertyName": "Gannett",
-      "endDate": "2015-10-01T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1194",
@@ -238,87 +51,8 @@
       "imprExpected": 1000000,
       "startDate": "2015-05-14T07:00:00.000Z",
       "propertyName": "Mode Media",
-      "endDate": "2015-08-06T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1254",
-      "imprActual": 8518,
-      "imprExpected": 222222,
-      "startDate": "2015-06-29T07:00:00.000Z",
-      "propertyName": "RantSports",
-      "endDate": "2015-08-03T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 30597,
-      "imprExpected": 1666667,
-      "startDate": "2015-07-02T14:22:12.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 51409,
-      "imprExpected": 750000,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 20736,
-      "imprExpected": 1470588,
-      "startDate": "2015-07-01T07:00:00.000Z",
-      "propertyName": "Gannett",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 100980,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 9151,
-      "imprExpected": 714286,
-      "startDate": "2015-07-02T14:22:12.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 64347,
-      "imprExpected": 1122289,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1274",
-      "imprActual": 12217,
-      "imprExpected": 588235,
-      "startDate": "2015-07-08T07:00:00.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1254",
-      "imprActual": 8500,
-      "imprExpected": 222223,
-      "startDate": "2015-06-29T07:00:00.000Z",
-      "propertyName": "RantSports",
-      "endDate": "2015-08-03T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1265",
-      "imprActual": 55899,
-      "imprExpected": 3966667,
-      "startDate": "2015-07-08T07:00:00.000Z",
-      "propertyName": "Zillow.com",
-      "endDate": "2015-11-01T06:59:59.000Z"
+      "endDate": "2015-08-06T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -326,31 +60,8 @@
       "imprExpected": 466887,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 19525,
-      "imprExpected": 1469176,
-      "startDate": "2015-07-01T07:00:00.000Z",
-      "propertyName": "Gannett",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 42121,
-      "imprExpected": 733553,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1194",
-      "imprActual": 112716,
-      "imprExpected": 1000000,
-      "startDate": "2015-05-14T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2015-08-06T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1194",
@@ -358,55 +69,8 @@
       "imprExpected": 1000000,
       "startDate": "2015-05-14T07:00:00.000Z",
       "propertyName": "Mode Media",
-      "endDate": "2015-08-06T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 87082,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1163",
-      "imprActual": 131267,
-      "imprExpected": 7133333,
-      "startDate": "2015-05-15T07:00:00.000Z",
-      "propertyName": "Bloomberg",
-      "endDate": "2015-08-16T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 8372,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 53396,
-      "imprExpected": 714286,
-      "startDate": "2015-07-02T14:22:12.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 49196,
-      "imprExpected": 340000,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "Windows 8",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 21602,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
+      "endDate": "2015-08-06T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -414,23 +78,8 @@
       "imprExpected": 1434783,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 219269,
-      "imprExpected": 2666667,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 54109,
-      "imprExpected": 1586666,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -438,15 +87,8 @@
       "imprExpected": 2026171,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 64522,
-      "imprExpected": 924927,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -454,71 +96,8 @@
       "imprExpected": 466887,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 449019,
-      "imprExpected": 11382114,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "Outlook",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 65276,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 7685,
-      "imprExpected": 555556,
-      "startDate": "2015-07-01T07:00:00.000Z",
-      "propertyName": "Gannett",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 117454,
-      "imprExpected": 1931826,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "Windows 8",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 54631,
-      "imprExpected": 750000,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 48018,
-      "imprExpected": 669304,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 45211,
-      "imprExpected": 714286,
-      "startDate": "2015-07-02T14:22:12.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 23990,
-      "imprExpected": 1586667,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -526,7 +105,8 @@
       "imprExpected": 466887,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -534,31 +114,8 @@
       "imprExpected": 149152,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 63684,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1163",
-      "imprActual": 41834,
-      "imprExpected": 750000,
-      "startDate": "2015-05-15T07:00:00.000Z",
-      "propertyName": "Bloomberg",
-      "endDate": "2015-08-16T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 63799,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -566,31 +123,8 @@
       "imprExpected": 669304,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 16188,
-      "imprExpected": 1388889,
-      "startDate": "2015-07-02T14:22:12.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 67836,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 8926,
-      "imprExpected": 714196,
-      "startDate": "2015-07-02T14:22:12.000Z",
-      "propertyName": "USA TODAY",
-      "endDate": "2015-10-01T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     },
     {
       "url": "http://advertisers.isocket.com/campaigns/1122",
@@ -598,71 +132,8 @@
       "imprExpected": 825000,
       "startDate": "2015-03-30T06:00:00.000Z",
       "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 26698,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1254",
-      "imprActual": 8360,
-      "imprExpected": 222222,
-      "startDate": "2015-06-29T07:00:00.000Z",
-      "propertyName": "RantSports",
-      "endDate": "2015-08-03T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1214",
-      "imprActual": 18074,
-      "imprExpected": 1000000,
-      "startDate": "2015-07-01T07:00:00.000Z",
-      "propertyName": "Conde Nast Collections",
-      "endDate": "2015-09-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 93144,
-      "imprExpected": 1721625,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1163",
-      "imprActual": 46707,
-      "imprExpected": 275000,
-      "startDate": "2015-05-15T07:00:00.000Z",
-      "propertyName": "Bloomberg",
-      "endDate": "2015-08-16T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1122",
-      "imprActual": 96228,
-      "imprExpected": 1648300,
-      "startDate": "2015-03-30T06:00:00.000Z",
-      "propertyName": "MSN",
-      "endDate": "2015-08-01T06:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1179",
-      "imprActual": 19397,
-      "imprExpected": 380800,
-      "startDate": "2015-05-04T07:00:00.000Z",
-      "propertyName": "Mode Media",
-      "endDate": "2016-01-01T07:59:59.000Z"
-    },
-    {
-      "url": "http://advertisers.isocket.com/campaigns/1261",
-      "imprActual": 14556,
-      "imprExpected": 1111111,
-      "startDate": "2015-07-01T07:00:00.000Z",
-      "propertyName": "Gannett",
-      "endDate": "2015-10-01T06:59:59.000Z"
+      "endDate": "2015-08-01T06:59:59.000Z",
+      "isHealthy": false
     }
   ]
 }
