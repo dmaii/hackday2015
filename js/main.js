@@ -22,8 +22,8 @@ $(document).ready(function() {
     $('.menu').toggleClass('hidden');
     $('.site-wrapper .cover-container .inner h2').html('Inbox');
   });
+});
 
   function openBrowser(url) {
     window.open(url);
   }
-});

@@ -57,6 +57,7 @@
     var rv = "";
     var icon = '';
     var heading = '';
+    var unread = (readList.indexOf(''+item.id) === -1);
     switch (item.type) {
       case 'under-serving':
         icon = 'heartbeat';
@@ -67,7 +68,7 @@
         heading = "Counter-Offer Received";
       break;
     }
-    rv += "<li class=\""+item.type+" "+(item.unread?'unread':'')+"\">";
+    rv += "<li class=\""+item.type+" "+(unread?'unread':'')+"\" data-id=\""+item.id+"\" data-url=\""+item.url+"\">";
     rv += "  <i class=\"fa fa-"+icon+"\"></i>";
     rv += "  <h3>"+heading+"</h3>";
     rv += "  <p>"+item.name+"</p>";
@@ -84,5 +85,46 @@
     return rv;
   };
 
-  $('.inbox').html(processTemplate(inboxTemplate, inboxData));
+  var readList = [];
+  pollInbox = true;
+  function poll() {
+    $.ajax({
+      dataType: "json",
+      url: './mock2.json',
+      success: function(data) {
+        $('.inbox').html(processTemplate(inboxTemplate, rawDataToInboxData(data)));
+        $('.inbox li').click(function(e) {
+          openBrowser($(e.currentTarget).attr('data-url'));
+          markRead(e.currentTarget);
+        });
+        if (pollInbox) setTimeout(poll, 500);
+      },
+      error: function() {
+      }
+    });
+  };
+  poll();
+
+  function markRead(node) {
+    node = $(node);
+    console.log(node.attr('data-id'), readList);
+    readList.push(node.attr('data-id'));
+    node.removeClass('unread');
+  };
+
+  function rawDataToInboxData(rawData) {
+    var rv = [];
+    var xyzzy = 0;
+    for (var x=0; x<rawData.rows.length; x++) {
+      rv.push({
+        id: xyzzy++,
+        type: 'under-serving',
+        unread: true,
+        name: 'K-Mart',
+        date: '30 seconds ago',
+        url: 'http://slashdot.org/'
+      });
+    }
+    return rv;
+  };
 </script>
