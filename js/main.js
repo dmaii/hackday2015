@@ -15,4 +15,8 @@ $(document).ready(function() {
     $('.menu').toggleClass('hidden');
   });
 
+  $('.menu-inbox').click(function() {
+    $('#content').load('html/inbox.html');
+    $('.menu').toggleClass('hidden');
+  });
 });
