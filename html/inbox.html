@@ -48,9 +48,13 @@
         icon = 'heartbeat';
         heading = "Campaign Under-Serving";
       break;
-      case 'counter-offer':
+      case 'negotiation':
         icon = 'money';
         heading = "Counter-Offer Received";
+      break;
+      case 'change-order':
+        icon = 'exchange';
+        heading = "Change Order Requested";
       break;
     }
     rv += "<li class=\""+item.type+" "+(unread?'unread':'')+"\" data-id=\""+item.id+"\" data-url=\""+item.url+"\">";
@@ -80,7 +84,7 @@
           openBrowser($(e.currentTarget).attr('data-url'));
           markRead(e.currentTarget);
         });
-        if (pollInbox) setTimeout(poll, 500);
+        if (pollInbox) setTimeout(poll, 1000);
       },
       error: function() {
       }
@@ -105,7 +109,30 @@
         date: '30 seconds ago',
         url: rawData.rows[x].url
       });
+      if (notRandomInt(x) > 6) {
+        if (notRandomInt(x+1) > 5) {
+          rv.push({
+            id: rawData.rows[x].uid+notRandomInt(2),
+            type: 'negotiation',
+            name: rawData.rows[x].propertyName,
+            date: '30 seconds ago',
+            url: rawData.rows[x].url
+          });
+        } else {
+          rv.push({
+            id: rawData.rows[x].uid+notRandomInt(1),
+            type: 'change-order',
+            name: rawData.rows[x].propertyName,
+            date: '30 seconds ago',
+            url: rawData.rows[x].url
+          });
+        }
+      }
     }
     return rv;
+  };
+
+  function notRandomInt(seed) {
+    return Math.floor(('0.'+Math.sin(seed).toString().substr(6)) * 9)+1;
   };
 </script>
