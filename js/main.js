@@ -24,6 +24,8 @@ $(document).ready(function() {
   });
 });
 
+  var readList = [];
+  pollInbox = true;
   function openBrowser(url) {
     window.open(url);
   }
